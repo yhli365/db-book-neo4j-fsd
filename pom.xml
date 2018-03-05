@@ -23,6 +23,7 @@
 
 	<modules>
 		<module>useapi</module>
+		<module>nba-prediction</module>
 	</modules>
 
 	<dependencyManagement>
